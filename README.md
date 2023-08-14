@@ -61,14 +61,14 @@ Network for those earning a NW Masters of Applied Data Science
 - GitHub ◆ LinkedIn ◆ TS
 - GitHub ◆ LinkedIn ◆ US
 - GitHub ◆ LinkedIn ◆ JW
-- GitHub ◆ LinkedIn ◆ HW
+- [GitHub]://github.com/Habtom1999) ◆ [LinkedIn](https://www.linkedin.com/in/habtom-woldu-b62b0a66/) ◆ Habtom Woldu
 
 ## Summer 2023 Block 1 - 608 - Data Analytics Fundamentals
 
  - GitHub ◆ LinkedIn ◆ WA
  - [GitHub](https://github.com/dblake3377) ◆ [LinkedIn](https://www.linkedin.com/in/desiree-blake-7b4142200/) ◆ Desiree Blake 
  - GitHub ◆ LinkedIn ◆ WB
- - [GitHub](https://github.com/Sarah566092) ◆ LinkedIn ◆ Sarah DeConink
+ - [GitHub](https://github.com/Sarah566092)  ◆ Sarah DeConink
  - GitHub ◆ LinkedIn ◆ BG
  - [GitHub](https://github.com/ChristianJBNB) ◆ [LinkedIn](https://www.linkedin.com/in/christian-jackson-391281193/) ◆ Christian Jackson
  - GitHub ◆ LinkedIn ◆ HM
